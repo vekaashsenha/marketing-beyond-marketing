@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2560" height="1440" viewBox="0 0 2560 1440">
+  <defs><linearGradient id="wash" x1="0" x2="1"><stop stop-color="#110c16" offset="0"/><stop stop-color="#1c1024" stop-opacity=".92" offset=".59"/><stop stop-color="#25122d" stop-opacity=".28" offset="1"/></linearGradient></defs>
+  <rect width="2560" height="1440" fill="#110c16"/>
+  <image xlink:href="../assets/mbm-hero-editorial-v2.png" x="1580" y="-50" width="1050" height="1312" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="2560" height="1440" fill="url(#wash)"/>
+  <circle cx="1860" cy="700" r="435" fill="#d0f35a" opacity=".11"/>
+  <!-- YouTube's desktop safe area is the centred 1546 × 423 region. -->
+  <g transform="translate(507 509)">
+    <text x="0" y="37" fill="#d0f35a" font-family="Arial, sans-serif" font-weight="700" font-size="29" letter-spacing="7">MBM</text><line x1="120" y1="26" x2="286" y2="26" stroke="#eee7dc" stroke-opacity=".45" stroke-width="2"/>
+    <text x="0" y="101" fill="#eee7dc" font-family="Arial, sans-serif" font-size="23" letter-spacing="4.8">MARKETING BEYOND MARKETING</text>
+    <text x="0" y="225" fill="#eee7dc" font-family="Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-2">Brands people choose.</text>
+    <text x="0" y="308" fill="#d0f35a" font-family="Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-2">Growth you can measure.</text>
+    <text x="4" y="373" fill="#eee7dc" fill-opacity=".75" font-family="Arial, sans-serif" font-size="17" letter-spacing="2.1">BRAND · WEBSITES · DEMAND SYSTEMS · AI-ENABLED OPERATIONS</text>
+  </g>
+</svg>

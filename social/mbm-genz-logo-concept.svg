@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">MBM Gen Z logo concept</title>
+  <desc id="desc">A bold lowercase MBM monogram in ivory and lime on a deep plum square.</desc>
+  <rect width="1024" height="1024" rx="224" fill="#190c21"/>
+  <path d="M180 666V385c0-27 22-49 49-49h47c21 0 40 13 47 33l18 51 18-51c7-20 26-33 47-33h47c27 0 49 22 49 49v281h-100V461l-22 67c-6 18-23 30-42 30h-16c-19 0-36-12-42-30l-22-67v205H180Z" fill="#f6efe6"/>
+  <path d="M500 336h100v65c22-43 58-74 115-74 85 0 145 68 145 174 0 106-60 174-145 174-57 0-93-31-115-74v65H500V336Zm178 249c46 0 78-35 78-84s-32-84-78-84-78 35-78 84 32 84 78 84Z" fill="#f6efe6"/>
+  <path d="M860 336h56c27 0 49 22 49 49v281H865V461l-22 67c-6 18-23 30-42 30h-16c-19 0-36-12-42-30l-22-67v205H621V385c0-27 22-49 49-49h47c21 0 40 13 47 33l18 51 18-51c7-20 26-33 47-33h13Z" fill="#d0f35a"/>
+  <circle cx="852" cy="205" r="43" fill="#d0f35a"/>
+  <path d="M852 176v58M823 205h58" stroke="#190c21" stroke-width="14" stroke-linecap="round"/>
+  <path d="M180 747h664" stroke="#d0f35a" stroke-width="10" stroke-linecap="round"/>
+  <text x="182" y="814" fill="#f6efe6" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" letter-spacing="9">MARKETING BEYOND MARKETING</text>
+</svg>

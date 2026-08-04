@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1640" height="624" viewBox="0 0 1640 624">
+  <defs><linearGradient id="wash" x1="0" x2="1"><stop stop-color="#110c16" offset="0"/><stop stop-color="#1c1024" stop-opacity=".93" offset=".57"/><stop stop-color="#25122d" stop-opacity=".25" offset="1"/></linearGradient></defs>
+  <rect width="1640" height="624" fill="#110c16"/>
+  <image xlink:href="../assets/mbm-hero-editorial-v2.png" x="1030" y="-150" width="545" height="680" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1640" height="624" fill="url(#wash)"/>
+  <circle cx="1178" cy="286" r="220" fill="#d0f35a" opacity=".10"/>
+  <text x="105" y="145" fill="#d0f35a" font-family="Arial, sans-serif" font-weight="700" font-size="30" letter-spacing="6">MBM</text><line x1="215" y1="134" x2="375" y2="134" stroke="#eee7dc" stroke-opacity=".45" stroke-width="2"/>
+  <text x="105" y="204" fill="#eee7dc" font-family="Arial, sans-serif" font-size="21" letter-spacing="4">MARKETING BEYOND MARKETING</text>
+  <text x="105" y="337" fill="#eee7dc" font-family="Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-2">Brands people choose.</text>
+  <text x="105" y="417" fill="#d0f35a" font-family="Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-2">Growth you can measure.</text>
+  <text x="110" y="495" fill="#eee7dc" fill-opacity=".72" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">BRAND · WEBSITES · DEMAND SYSTEMS · AI-ENABLED OPERATIONS</text>
+  <rect x="105" y="542" width="120" height="4" fill="#d0f35a"/>
+</svg>

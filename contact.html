@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Start a Project | Marketing Beyond Marketing</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="nav shell">
+      <a class="brand" href="index.html"
+        ><span class="brand-mark">MBM</span
+        ><small>Marketing Beyond Marketing</small></a
+      ><button
+        class="menu-toggle"
+        aria-expanded="false"
+        aria-controls="site-menu"
+      >
+        Menu
+      </button>
+      <nav id="site-menu">
+        <a href="index.html">Home</a><a href="work.html">Work</a
+        ><a href="services.html">Services</a><a href="about.html">About</a
+        ><a href="thinking.html">Thinking</a
+        ><a class="active" href="contact.html">Contact</a>
+      </nav>
+    </header>
+    <main class="inner-page">
+      <section class="page-hero shell">
+        <p class="eyebrow"><span></span>Start a project</p>
+        <h1>Let’s make the<br />next move <em>matter.</em></h1>
+        <p>
+          Tell MBM what you are building, what is no longer working, or what
+          needs to move next.
+        </p>
+      </section>
+      <section class="contact-panel shell">
+        <div class="contact-details">
+          <p class="eyebrow"><span></span>Email</p>
+          <a href="mailto:vikash@marketingbeyondmarketing.com"
+            >vikash@marketingbeyondmarketing.com ↗</a
+          >
+        </div>
+        <form class="contact-form" action="https://formsubmit.co/vikash@marketingbeyondmarketing.com" method="POST">
+          <input type="hidden" name="_subject" value="New MBM website enquiry" />
+          <input type="hidden" name="_template" value="table" />
+          <input type="text" name="_honey" tabindex="-1" autocomplete="off" class="honeypot" />
+          <p class="eyebrow"><span></span>Tell us what you need</p>
+          <label for="name">Your name</label>
+          <input id="name" name="Name" type="text" autocomplete="name" required />
+          <label for="email">Work email</label>
+          <input id="email" name="Email" type="email" autocomplete="email" required />
+          <label for="company">Company</label>
+          <input id="company" name="Company" type="text" autocomplete="organization" />
+          <label for="message">What needs to move next?</label>
+          <textarea id="message" name="Message" rows="5" required placeholder="Your business, challenge, outcome and any timing that matters."></textarea>
+          <button class="button contact-submit" type="submit">Send enquiry <b>↗</b></button>
+          <p class="form-note">We will use these details only to respond to your enquiry.</p>
+        </form>
+      </section>
+    </main>
+    <footer class="footer shell">
+      <a class="brand" href="index.html"><span class="brand-mark">MBM</span></a
+      ><span>© 2026 Marketing Beyond Marketing</span>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>

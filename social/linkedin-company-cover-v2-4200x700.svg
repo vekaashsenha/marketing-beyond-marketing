@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4200" height="700" viewBox="0 0 4200 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0911"/>
+      <stop offset="0.52" stop-color="#25122b"/>
+      <stop offset="1" stop-color="#551652"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#d0f35a" stop-opacity=".66"/>
+      <stop offset="1" stop-color="#d0f35a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d0911" stop-opacity="0"/>
+      <stop offset=".64" stop-color="#0d0911" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#0d0911" stop-opacity=".55"/>
+    </linearGradient>
+    <clipPath id="artClip"><rect x="2640" y="45" width="1120" height="610" rx="305"/></clipPath>
+  </defs>
+  <rect width="4200" height="700" fill="url(#bg)"/>
+  <circle cx="3260" cy="350" r="570" fill="url(#glow)" opacity=".42"/>
+  <circle cx="3370" cy="370" r="480" fill="none" stroke="#eee7dc" stroke-opacity=".15" stroke-width="2"/>
+  <circle cx="3370" cy="370" r="408" fill="none" stroke="#d0f35a" stroke-opacity=".36" stroke-width="4"/>
+  <g clip-path="url(#artClip)">
+    <image xlink:href="../assets/mbm-hero-editorial-v2.png" x="2615" y="-105" width="1200" height="870" preserveAspectRatio="xMidYMid slice" opacity=".98"/>
+  </g>
+  <rect width="4200" height="700" fill="url(#wash)"/>
+  <text x="390" y="156" fill="#d0f35a" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="43" letter-spacing="11">MBM</text>
+  <line x1="547" y1="140" x2="825" y2="140" stroke="#eee7dc" stroke-opacity=".42" stroke-width="3"/>
+  <text x="390" y="232" fill="#eee7dc" font-family="Arial, Helvetica, sans-serif" font-size="31" letter-spacing="7">MARKETING BEYOND MARKETING</text>
+  <text x="390" y="408" fill="#eee7dc" font-family="Arial, Helvetica, sans-serif" font-size="108" font-weight="700" letter-spacing="-4">Build the brand</text>
+  <text x="390" y="531" fill="#d0f35a" font-family="Arial, Helvetica, sans-serif" font-size="108" font-weight="700" letter-spacing="-4">they choose first.</text>
+  <text x="394" y="620" fill="#eee7dc" fill-opacity=".76" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="4">BRAND · DEMAND · DIGITAL EXPERIENCE</text>
+</svg>

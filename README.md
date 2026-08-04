@@ -1,6 +1,13 @@
 # Marketing Beyond Marketing
 
-The Marketing Beyond Marketing website. A responsive, static landing page for the brand's first launch.
+The first live-build version of the Marketing Beyond Marketing website: a responsive, founder-led growth and creative agency landing page.
+
+## Included
+
+- Premium deep-plum, ink, ivory and lime visual system
+- Custom generated editorial hero artwork
+- Portfolio-style concept work, services, founder credibility, process and contact sections
+- Mobile navigation and responsive layouts
 
 ## Local preview
 
